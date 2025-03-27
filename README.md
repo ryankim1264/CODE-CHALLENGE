@@ -1,1 +1,1 @@
-https://github.com/ryankim1264/CODE-CHALLENGE/settings/pages
+https://ryankim1264.github.io/CODE-CHALLENGE/
